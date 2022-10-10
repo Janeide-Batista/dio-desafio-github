@@ -12,6 +12,6 @@ mv- mover
 git add "nome do arquivo"- adiciona só o arquivo citado
 git add *- adiciona todas as modificações
 git commit -m- comitar "escrever instrução"
-git push origin master- empurrar um repositório no Git
+git push origin - empurrar um repositório no Git
 git pull origin - puxar um repositório do Git
 git clone- clonar um repositório 
